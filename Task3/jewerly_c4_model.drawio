@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Page-1" id="q5gKrhV2WKv8pvfnoQvh">
-        <mxGraphModel dx="1027" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1496" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -91,7 +91,7 @@
                 </mxCell>
                 <object placeholders="1" c4Name="Jewerly Store System" c4Type="SystemScopeBoundary" c4Application="Software System" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="6bDfexBDMjg7O7AECw8N-19">
                     <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-                        <mxGeometry x="500" y="235" width="1220" height="1065" as="geometry"/>
+                        <mxGeometry x="500" y="235" width="1960" height="1125" as="geometry"/>
                     </mxCell>
                 </object>
                 <mxCell id="6bDfexBDMjg7O7AECw8N-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6bDfexBDMjg7O7AECw8N-7" target="6bDfexBDMjg7O7AECw8N-1" edge="1">
@@ -220,15 +220,15 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="27" style="edgeStyle=none;html=1;" edge="1" parent="1" source="25" target="8">
+                <mxCell id="27" style="edgeStyle=none;html=1;" parent="1" source="25" target="8" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <object placeholders="1" c4Name="Jaeger" c4Type="Container" c4Technology="Jaeger" c4Description="Собирает и хранит трейсы" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#fff&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="25">
-                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#a20025;align=center;arcSize=10;strokeColor=#6F0000;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#a20025;align=center;arcSize=10;strokeColor=#6F0000;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fontColor=#ffffff;" parent="1" vertex="1">
                         <mxGeometry x="1828" y="760" width="240" height="120" as="geometry"/>
                     </mxCell>
                 </object>
-                <mxCell id="26" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="25" target="7">
+                <mxCell id="26" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="25" target="7" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
             </root>
